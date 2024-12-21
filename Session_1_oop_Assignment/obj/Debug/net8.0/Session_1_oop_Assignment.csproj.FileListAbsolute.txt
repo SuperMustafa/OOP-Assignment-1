@@ -1,0 +1,14 @@
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\bin\Debug\net8.0\Session_1_oop_Assignment.exe
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\bin\Debug\net8.0\Session_1_oop_Assignment.deps.json
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\bin\Debug\net8.0\Session_1_oop_Assignment.runtimeconfig.json
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\bin\Debug\net8.0\Session_1_oop_Assignment.dll
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\bin\Debug\net8.0\Session_1_oop_Assignment.pdb
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.AssemblyInfoInputs.cache
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.AssemblyInfo.cs
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.csproj.CoreCompileInputs.cache
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.dll
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\refint\Session_1_oop_Assignment.dll
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.pdb
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\Session_1_oop_Assignment.genruntimeconfig.cache
+E:\asp.net\Assignments\c#-Assignments\oop_session_1_revision\Session_1_oop_Assignment\obj\Debug\net8.0\ref\Session_1_oop_Assignment.dll
